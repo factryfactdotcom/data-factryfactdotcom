@@ -1,0 +1,6 @@
+{
+  "status": 200,
+  "res": "FactryFact API Running",
+  "basUrl": "https://factryfactdotcom.github.io/data-factryfactdotcom/",
+  "apiUrl": "https://factryfactdotcom.github.io/data-factryfactdotcom/api"
+}
