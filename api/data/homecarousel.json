@@ -1,13 +1,13 @@
 [
   {
     "id": "carousel-001",
-    "img": "/homecarousel/ProductioniMaciPadiPhoneX.png",
+    "img": "homecarousel/ProductioniMaciPadiPhoneX.png",
     "title": "Machine Monitoring",
     "desc": "Gain real-time visibility into machine states, value streams, and production facilities to identify, solve, and prevent downtime."
   },
   {
     "id": "carousel-002",
-    "img": "/homecarousel/Schedules-iPad.png",
+    "img": "homecarousel/Schedules-iPad.png",
     "title": "Machine Monitoring",
     "desc": "Gain real-time visibility into machine states, value streams, and production facilities to identify, solve, and prevent downtime."
   }

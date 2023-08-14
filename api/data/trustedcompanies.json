@@ -1,0 +1,37 @@
+[
+  {
+    "id": "comp-001",
+    "name": "FANUC",
+    "img": "trustedcompanies/fanuc.svg"
+  },
+  {
+    "id": "comp-002",
+    "name": "DMG MORI",
+    "img": "trustedcompanies/dmgmori.svg"
+  },
+  {
+    "id": "comp-003",
+    "name": "MAZAK",
+    "img": "trustedcompanies/mazak.svg"
+  },
+  {
+    "id": "comp-004",
+    "name": "SIEMENS",
+    "img": "trustedcompanies/siemens.svg"
+  },
+  {
+    "id": "comp-005",
+    "name": "MAKINO",
+    "img": "trustedcompanies/makino.svg"
+  },
+  {
+    "id": "comp-006",
+    "name": "MISTUBISHI ELECTRIC",
+    "img": "trustedcompanies/mitsubishi.svg"
+  },
+  {
+    "id": "comp-007",
+    "name": "OKUMA",
+    "img": "trustedcompanies/okuma.svg"
+  }
+]
