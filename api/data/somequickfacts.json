@@ -1,0 +1,23 @@
+[
+  {
+    "id": "sqf-001",
+    "name": "IT Experience",
+    "value": 40,
+    "desc": "Years of Cumulative IT Solutioning Experience",
+    "icon": "somequickfacts/persons.svg"
+  },
+  {
+    "id": "sqf-002",
+    "name": "Industry Experience",
+    "value": 5,
+    "desc": "Years of Machining Industry Experience",
+    "icon": "somequickfacts/factory.svg"
+  },
+  {
+    "id": "sqf-003",
+    "name": "ERP Transactions",
+    "value": 133453,
+    "desc": "ERP Transactions handled across various modules",
+    "icon": "somequickfacts/harddisk.svg"
+  }
+]
