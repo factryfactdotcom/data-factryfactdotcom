@@ -1,36 +1,36 @@
 [
   {
-    "id": "comp-001",
+    "id": "vendor-001",
     "name": "FANUC",
     "img": "trustedcompanies/fanuc.svg"
   },
   {
-    "id": "comp-002",
+    "id": "vendor-002",
     "name": "DMG MORI",
     "img": "trustedcompanies/dmgmori.svg"
   },
   {
-    "id": "comp-003",
+    "id": "vendor-003",
     "name": "MAZAK",
     "img": "trustedcompanies/mazak.svg"
   },
   {
-    "id": "comp-004",
+    "id": "vendor-004",
     "name": "SIEMENS",
     "img": "trustedcompanies/siemens.svg"
   },
   {
-    "id": "comp-005",
+    "id": "vendor-005",
     "name": "MAKINO",
     "img": "trustedcompanies/makino.svg"
   },
   {
-    "id": "comp-006",
+    "id": "vendor-006",
     "name": "MISTUBISHI ELECTRIC",
     "img": "trustedcompanies/mitsubishi.svg"
   },
   {
-    "id": "comp-007",
+    "id": "vendor-007",
     "name": "OKUMA",
     "img": "trustedcompanies/okuma.svg"
   }
