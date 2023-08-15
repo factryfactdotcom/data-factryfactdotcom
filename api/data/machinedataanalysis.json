@@ -1,0 +1,22 @@
+[
+  {
+    "id": "machine-001",
+    "name": "Dashboards",
+    "description": "Our fully automated machine monitoring & OEE software provides visualizations of real-time manufacturing production data, instant notifications, as well as historical analytics, allowing factory workers to make faster, smarter, more confident decisions based on real-time data."
+  },
+  {
+    "id": "machine-002",
+    "name": "Connect to any machine",
+    "description": "Connect, collect & visualize data from any piece of equipment on the shop floor. We support a variety of machines including Fanuc, Mitsubishi, Okuma, Mazak, DMG MORI, Makino, and many more."
+  },
+  {
+    "id": "machine-003",
+    "name": "Monitor and analyze health",
+    "description": "Easily identify bottlenecks and points of failure that are generating the most downtime."
+  },
+  {
+    "id": "machine-004",
+    "name": "Take action at the right time",
+    "description": "Configurable notifications allow the right person to take immediate action at the right time."
+  }
+]
